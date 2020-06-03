@@ -256,7 +256,7 @@ fieldset[disabled] .btn-theme {
 
 .btn-default-bg:hover, .btn-default-bg:focus, .btn-default-bg.focus {
   color: #fff;
-  background: #17bed2;
+  background: #576062;
   border-color: transparent;
 }
 
@@ -321,7 +321,7 @@ fieldset[disabled] .btn-theme {
 
 .promo-block .promo-block-title {
   font-size: 70px;
-  color: #fff;
+  color: #515769;
   line-height: 1;
 }
 
@@ -333,7 +333,7 @@ fieldset[disabled] .btn-theme {
 
 .promo-block .promo-block-text {
   font-size: 25px;
-  color: #fff;
+  color: rgb(151, 151, 151);
 }
 
 .promo-block .promo-block-divider {
@@ -626,7 +626,7 @@ fieldset[disabled] .btn-theme {
 
 .header .logo-img {
   display: inline-block;
-  width: 64px;
+  width: 100px;
   height: auto;
   max-width: 100%;
   max-height: 100%;
@@ -951,7 +951,7 @@ fieldset[disabled] .btn-theme {
   	[Text Colors]
 ------------------------------------------------------------------*/
 .color-base {
-  color: #17bed2 !important;
+  color: #667072 !important;
 }
 
 .color-white {
@@ -982,7 +982,7 @@ fieldset[disabled] .btn-theme {
   	[Background Colors]
 ------------------------------------------------------------------*/
 .bg-color-base {
-  background: #17bed2 !important;
+  background: #667072 !important;
 }
 
 .bg-color-white {
